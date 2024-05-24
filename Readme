@@ -1,1 +1,22 @@
+E-bireary managemnt system
+
+1. Project Overview:
+•	Introduction: Briefly explains the purpose of the system and its main functionalities.
+•	Features: Lists the features offered by the system, including user authentication, book management, borrowing, user management, reporting, and analytics.
+2. Setup Instructions:
+•	Provides step-by-step instructions for setting up the project environment, including cloning the repository, importing into Eclipse IDE, configuring Tomcat Server, setting up MySQL Database, and modifying configuration files.
+3. User Guide:
+•	Describes how to use the system, including login instructions for admins and students, managing books, managing users (admins only), and borrowing books.
+4. Developer Guide:
+•	Offers insight into the project structure, key components, code overview, configuration details, and the database schema.
+•	Project Structure: Explains the organization of source files, resources, and databases.
+•	Key Components: Describes the main components such as controllers, services, repositories, and models.
+•	Code Overview: Highlights important Java classes responsible for handling requests, business logic, and database operations.
+•	Configuration: Specifies configuration files and their purposes.
+•	Database Schema: Provides an overview of the database structure.
+5. API Documentation:
+•	Documents the endpoints of the API, including operations for books, users, and borrowing activities.
+•	Provides request/response examples for better understanding.
+6. Maintenance and Support:
+•	Lists common issues and their solutions, along with contact information for further assistance.
 
